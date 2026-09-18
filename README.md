@@ -1,4 +1,4 @@
-# BOSL_Relative_Sensitivity
+# Quartz BOSL relative sensitivity of Tn signals
 
 ## Scope and intended use
 
